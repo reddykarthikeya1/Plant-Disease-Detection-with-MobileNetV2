@@ -61,9 +61,6 @@ Open `model.ipynb` in Jupyter Notebook or VS Code and run all cells to train and
 - **Phase 1:** Train only the custom head (base model frozen)
 - **Phase 2:** Fine-tune top layers of MobileNetV2 with a lower learning rate
 
-## Example Predictions
-
-![Sample Predictions](output2.png)
 
 ## Results
 
